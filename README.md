@@ -1,5 +1,4 @@
 ![](https://i.ibb.co/j8rds7B/Logo-5.png)
-
 # Ejercicio 1
 
 Vamos a definir una función `concatenacionEsIgual` que recibe tres strings y nos dice si la concatenación de los dos primeros es igual al tercero:
