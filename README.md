@@ -90,10 +90,10 @@ Para eso vamos a crear una función que reciba 3 números y nos diga si la resta
 
 ```javascript
 laRestaEsMasGrande (4,2,8)
-false /Porque 4 menos 2 es 2 y es menor a 84
+false //Porque 4 menos 2 es 2 y es menor a 84
 
 laRestaEsMasGrande (12,3,5)
-true /Porque 12 menos 3 es 9 y es mayor a 5
+true //Porque 12 menos 3 es 9 y es mayor a 5
 ```
 
 > Definí la función `laRestaEsMasGrande`.
